@@ -35,3 +35,17 @@ Curso basado en Angular desde cero. Hace un recorrido por extenso para poder ini
   - Métodos en servicios
   
   - Depuraciones
+    
+02C: Despliegues de producción - generar el build de producción de la aplicación y desplegarla en la web.
+
+El proceso de despliegue en otros servidores es virtualmente el mismo, coger carpeta DIST (que contiene la aplicación con archivos HTML, CSS y JS) y desplegarla mediante FTP (preferiblemente sFTP) en el hosting.
+
+  - Generar build de producción
+  
+  - Desplegarlo rápidamente
+  
+  - Netlify
+  
+  - GitHub Pages
+  
+  - npm Scripts para automatizar el proceso
